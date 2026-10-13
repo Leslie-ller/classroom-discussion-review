@@ -1,0 +1,28 @@
+{
+  "title": "阅读周数讨论",
+  "messages": [
+    {
+      "id": "T1",
+      "role": "student",
+      "text": "每周读100页，500页需要5天。"
+    },
+    {
+      "id": "T2",
+      "role": "assistant",
+      "text": "500除以100等于5。"
+    },
+    {
+      "id": "T3",
+      "role": "student",
+      "text": "所以答案是5天。"
+    }
+  ],
+  "materials": [
+    {
+      "id": "R1",
+      "title": "原题",
+      "text": "每周读100页，一本书500页，需要多少周读完？"
+    }
+  ],
+  "task_type": "math_word_problem"
+}

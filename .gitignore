@@ -1,0 +1,12 @@
+var/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.venv/
+.DS_Store
+*.sqlite*
+*.log
+*.key
+*.pem

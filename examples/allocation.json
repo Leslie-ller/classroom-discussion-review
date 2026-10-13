@@ -1,0 +1,23 @@
+{
+  "title": "总数与唯一分配",
+  "messages": [
+    {
+      "id": "T1",
+      "role": "student",
+      "text": "两人共有5本书，唯一可能的分配是2本和3本。"
+    },
+    {
+      "id": "T2",
+      "role": "teacher",
+      "text": "总数5本是正确的。"
+    }
+  ],
+  "materials": [
+    {
+      "id": "R1",
+      "title": "原题",
+      "text": "两人各有至少一本书，两人共有5本书。已知条件能否唯一确定每个人有几本书？"
+    }
+  ],
+  "task_type": "math_word_problem"
+}
